@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "sinu",
+            "Password": "Sanu@123",
+            "profile": {
+                "description": "dancer",
+                "dob": "8 october 2000",
+                "hobbies": "cooking",
+                "gender": "male"
+            }
+        },
+        {
+            "Username": "sapna",
+            "Password": "Sapna@12",
+            "profile": {
+                "description": "singer",
+                "dob": "21 april 1997",
+                "hobbies": "travelling",
+                "gender": "female"
+            }
+        }
+    ]
+}
